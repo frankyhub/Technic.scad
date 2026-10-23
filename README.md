@@ -10,13 +10,13 @@
 
 </div>  
 
-LEGO Building instructions:
+Building instructions:
 
-[LEGO](https://www.lego.com/de-de/service/building-instructions#?text=8633)
+[link](https://www.lego.com/de-de/service/building-instructions#?text=8633)
 
-LEGO Building example:
+Building example:
 
-[<img src="pic/8089e.png">](https://www.lego.com/cdn/product-assets/product.bi.core.pdf/4597662.pdf)
+[link](https://www.lego.com/cdn/product-assets/product.bi.core.pdf/4597662.pdf)
 
 ## Module `Technic.scad`
 
