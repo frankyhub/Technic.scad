@@ -484,14 +484,10 @@ Generate a Technic-compatible worm gear.
 
 LEGO® is a brand of the LEGO Group. This website is not sponsored, approved, or supported by the LEGO Group.  
 
-**Returns:**
 
-No return
 
 Back to [module description](#module-technicscad).
 
-
-Back to [top](#).
 
 
 <div style="position:absolute; left:2cm; ">   
