@@ -12,11 +12,11 @@
 
 LEGO Building instructions:
 
-[<img src="pic/8089.png">](https://www.lego.com/de-de/service/building-instructions#?text=8633)
+[<"LEGO">](https://www.lego.com/de-de/service/building-instructions#?text=8633)
 
 LEGO Building example:
 
-[<img src="pic/8089.png">](https://www.lego.com/cdn/product-assets/product.bi.core.pdf/4597662.pdf)
+[<img src="pic/8089e.png">](https://www.lego.com/cdn/product-assets/product.bi.core.pdf/4597662.pdf)
 
 ## Module `Technic.scad`
 
