@@ -10,6 +10,8 @@
 
 </div>  
 
+Models Made of LEGO Bricks
+
 Building instructions:
 
 [link](https://www.lego.com/de-de/service/building-instructions#?text=8633)
@@ -475,6 +477,8 @@ Generate a Technic-compatible worm gear.
 - `height`: *float* The height of the gear, in Technic units.
 - `width`: *int* The width of the gear, in some unknown units. The two real-world Technic worm gears seem to be roughly multiples of 3.5mm (3x and 4x), and values outside of 3-5 don't really work.
 - `opening`: *string* Whether the opening should be axle shaped, or the half-axle/half-circle shape that some new gears use. "axle" or "axle2"
+
+LEGO® is a brand of the LEGO Group. This website is not sponsored, approved, or supported by the LEGO Group.  
 
 **Returns:**
 
