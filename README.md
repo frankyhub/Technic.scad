@@ -12,6 +12,10 @@
 
 Models Made of LEGO Bricks
 
+<img src="examples/images/Technic Set 30433.png" width="800"> 
+<br> <br>
+
+
 Building instructions:
 
 [link](https://www.lego.com/de-de/service/building-instructions#?text=8633)
