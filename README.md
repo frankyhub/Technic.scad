@@ -12,7 +12,7 @@
 
 LEGO Building instructions:
 
-[<"LEGO">](https://www.lego.com/de-de/service/building-instructions#?text=8633)
+[LEGO](https://www.lego.com/de-de/service/building-instructions#?text=8633)
 
 LEGO Building example:
 
