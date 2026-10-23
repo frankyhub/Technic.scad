@@ -482,11 +482,7 @@ Generate a Technic-compatible worm gear.
 - `width`: *int* The width of the gear, in some unknown units. The two real-world Technic worm gears seem to be roughly multiples of 3.5mm (3x and 4x), and values outside of 3-5 don't really work.
 - `opening`: *string* Whether the opening should be axle shaped, or the half-axle/half-circle shape that some new gears use. "axle" or "axle2"
 
-LEGO® is a brand of the LEGO Group. This website is not sponsored, approved, or supported by the LEGO Group.  
-
-
-
-Back to [module description](#module-technicscad).
+LEGO® is a brand of the LEGO Group. This website is not sponsored, approved, or supported by the LEGO 
 
 
 
