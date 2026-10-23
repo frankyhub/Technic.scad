@@ -10,7 +10,7 @@
 
 </div>  
 
-Models Made of LEGO Bricks
+Models Made of LEGO-Technik Bricks
 
 <img src="images/Technic%20Set%2030433.png" width="800"> 
 <br> <br>
