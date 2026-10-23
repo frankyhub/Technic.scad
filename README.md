@@ -10,6 +10,9 @@
 
 </div>  
 
+LEGO Building instructions:
+
+[<img src="pic/8089.png">](https://www.lego.com/cdn/product-assets/product.bi.core.pdf/4597662.pdf)
 
 
 ## Module `Technic.scad`
