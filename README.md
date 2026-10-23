@@ -12,7 +12,7 @@
 
 Models Made of LEGO Bricks
 
-<img src="examples/images/Technic%20Set%2030433.png" width="800"> 
+<img src="images/Technic%20Set%2030433.png" width="800"> 
 <br> <br>
 
 
